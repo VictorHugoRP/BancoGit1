@@ -33,6 +33,7 @@ public class Main {
 			int resultado = numA * numB;
 			
 			System.out.println("La multiplicacionModificada es: " + resultado);
+			System.out.println("La multiplicacionModificada2 es: " + resultado);
 		}
 		
 		public static void division(String num1, String num2){
